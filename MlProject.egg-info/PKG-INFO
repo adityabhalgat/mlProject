@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: MlProject
+Version: 2025.1.1
+Summary: A Machine Learning Project Template
+Author: Aditya Bhalgat
+Author-email: adityabhalgat81@gmail.com
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+Requires-Dist: pandas
